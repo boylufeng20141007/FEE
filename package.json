@@ -1,0 +1,29 @@
+{
+  "name": "fee",
+  "version": "1.0.0",
+  "description": "front-end engineering",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo no test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/boylufeng20141007/FEE.git"
+  },
+  "keywords": [
+    "webpack",
+    "fe"
+  ],
+  "author": "lux",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/boylufeng20141007/FEE/issues"
+  },
+  "homepage": "https://github.com/boylufeng20141007/FEE#readme",
+  "devDependencies": {
+    "webpack": "^3.5.6"
+  },
+  "dependencies": {
+    "express": "^4.15.4"
+  }
+}
